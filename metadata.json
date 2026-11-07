@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Prescription & Patient Record System",
+  "description": "Professional digital prescription maker with customizable clinic letterhead, patient record tracking, instant reset for new patients, and Google Forms integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
